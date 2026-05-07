@@ -1,0 +1,21 @@
+metadata_version: "2.0"
+name: ai-quickstart-rag-sno
+pattern_version: "2.0"
+description: Deploys the RAG AI Quickstart (https://github.com/rh-ai-quickstart/rag) in a configuration suitable for SNO clusters
+display_name: RAG AI Quickstart
+repo_url: https://github.com/validatedpatterns-sandbox/ai-quickstart-rag-sno
+docs_repo_url: https://github.com/validatedpatterns/docs
+issues_url: https://github.com/validatedpatterns-sandbox/ai-quickstart-rag-sno/issues
+docs_url: https://validatedpatterns.io/patterns
+ci_url: https://validatedpatterns.io/ci
+tier: maintained
+owners:
+  - dminnear-rh
+requirements: {}
+extra_features:
+  hypershift_support: false
+  spoke_support: false
+external_requirements: null
+org: validatedpatterns-sandbox
+spoke: null
+clustergroupname: prod

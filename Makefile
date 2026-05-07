@@ -1,10 +1,10 @@
-VERSION ?= 0.0.4
+VERSION ?= latest
 SUPPORTED_OCP_VERSIONS ?= v4.20-v4.21
 REGISTRY ?= localhost
 UPLOADREGISTRY ?= quay.io/validatedpatterns
 
 # Image base URL of the pattern catalog
-PATTERN_CATALOG_IMAGE_BASE ?= $(UPLOADREGISTRY)/pattern-ui-catalog
+PATTERN_CATALOG_IMAGE_BASE ?= $(UPLOADREGISTRY)/pattern-ui-catalog-lenovo-sno
 PATTERN_CATALOG_IMAGE ?= $(PATTERN_CATALOG_IMAGE_BASE):$(VERSION)
 PATTERN_CATALOG_DOCKERFILE ?= pattern-ui-catalog.Dockerfile
 

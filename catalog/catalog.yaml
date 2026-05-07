@@ -2,10 +2,4 @@ generated_at: "2026-04-16T11:34:50Z"
 generator_version: "1.0"
 catalog_description: '(Tech-Preview) Additional patterns can be found here: <a href="https://validatedpatterns.io">validatedpatterns.io</a>'
 patterns:
-  - ansible-edge-gitops
-  - layered-zero-trust
-  - mlops-fraud-detection
-  - multicloud-gitops
-  - rag-llm-gitops
-  - travelops
-  - hypershift
+  - ai-quickstart-rag-sno
