@@ -1,7 +1,7 @@
 metadata_version: "2.0"
 name: ai-quickstart-maas-code-assistant-sno
 pattern_version: "2.0"
-description: Deploys the MaaS AI Quickstart (https://github.com/rh-ai-quickstart/maas-code-assistant) in a configuration suitable for SNO clusters
+description: Deploys the MaaS AI Quickstart in a configuration suitable for SNO clusters
 display_name: MaaS Code Assistant AI Quickstart
 repo_url: https://github.com/validatedpatterns-sandbox/ai-quickstart-maas-code-assistant
 docs_repo_url: https://github.com/validatedpatterns/docs
