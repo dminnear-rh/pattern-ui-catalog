@@ -3,3 +3,4 @@ generator_version: "1.0"
 catalog_description: '(Tech-Preview) Additional patterns can be found here: <a href="https://validatedpatterns.io">validatedpatterns.io</a>'
 patterns:
   - ai-quickstart-rag-sno
+  - ai-quickstart-maas-sno
